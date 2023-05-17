@@ -38,3 +38,8 @@ while True:
     number+=1
     if not number <=10:
         break
+
+#range 
+
+for x in range(10):
+    print("i'm ready to go!")
