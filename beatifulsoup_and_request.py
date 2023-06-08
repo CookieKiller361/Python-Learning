@@ -22,4 +22,3 @@ for i, headline in enumerate(headline):
     print(f'\n{headline.text}\n{date[i].text}\n\n{text[i].text}')
 
 
-#wenn ferti backup.py löschen !!!
